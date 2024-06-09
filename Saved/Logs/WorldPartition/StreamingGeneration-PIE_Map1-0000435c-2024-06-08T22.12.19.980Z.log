@@ -1,0 +1,91 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/Map1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:01A372B949EBADAE38B97AB447BD9609 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_D843AE06D09DF6F801_1925917343 Label:MusicPlayer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:0534F22D47EA5734362600AF402E2D33 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_D843AE06D09D7DFD01_1917407328 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1C39FC7B4028AE16C5EF348D5EF46948 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_D843AE06D09D55EE01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:2BC9F4DB4803FB3EF1C440BB740C92B0 BaseClass:/Game/FollowMeLibrary/Companion/BTCompanion/Companion_BP.Companion_BP_C NativeClass:/Script/Engine.Character Name:Companion_BP_C_UAID_D843AE06D09D18F101_1961433889 Label:Companion_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1092.000 Y=-187.937 Z=-0.031), Max=(X=1160.000 Y=-84.063 Z=180.138) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:MyPlayer FolderGuid:EAEE21B84BF20B1F98098185499D2D8C
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2610.100 Y=1100.000 Z=65.013), Max=(X=-2610.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:AD0C19C348627F456A824286E7A60787 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_D843AE06D09D7DFD01_1926152329 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1599.000 Y=-418.000 Z=828.000), Max=(X=-1599.000 Y=-418.000 Z=828.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C8EFDACF4207A6B8C17E0795AB7049A4 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_D843AE06D09D55EE01_2145601601 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4570.000 Y=-1644.000 Z=-800.000), Max=(X=3630.000 Y=10156.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:EA70CA344D5FDB4C3C4693A70F5106AB BaseClass:/Game/FollowMeLibrary/Player/ThirdPersonCharacter.ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:ThirdPersonCharacter_C_UAID_D843AE06D09D17F101_2025650710 Label:ThirdPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1129.063 Y=-61.937 Z=-1.707), Max=(X=1305.000 Y=41.937 Z=182.138) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:MyPlayer FolderGuid:EAEE21B84BF20B1F98098185499D2D8C
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:01A372B949EBADAE38B97AB447BD9609 BaseClass: NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_D843AE06D09DF6F801_1925917343 Label:MusicPlayer SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0534F22D47EA5734362600AF402E2D33 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_D843AE06D09D7DFD01_1917407328 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1C39FC7B4028AE16C5EF348D5EF46948 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_D843AE06D09D55EE01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:2BC9F4DB4803FB3EF1C440BB740C92B0 BaseClass:/Game/FollowMeLibrary/Companion/BTCompanion/Companion_BP.Companion_BP_C NativeClass:/Script/Engine.Character Name:Companion_BP_C_UAID_D843AE06D09D18F101_1961433889 Label:Companion_BP SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1092.000 Y=-187.937 Z=-0.031), Max=(X=1160.000 Y=-84.063 Z=180.138) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:MyPlayer FolderGuid:EAEE21B84BF20B1F98098185499D2D8C
+ |   |   |   |- Guid:EA70CA344D5FDB4C3C4693A70F5106AB BaseClass:/Game/FollowMeLibrary/Player/ThirdPersonCharacter.ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:ThirdPersonCharacter_C_UAID_D843AE06D09D17F101_2025650710 Label:ThirdPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1129.063 Y=-61.937 Z=-1.707), Max=(X=1305.000 Y=41.937 Z=182.138) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:MyPlayer FolderGuid:EAEE21B84BF20B1F98098185499D2D8C
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2610.100 Y=1100.000 Z=65.013), Max=(X=-2610.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:AD0C19C348627F456A824286E7A60787 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_D843AE06D09D7DFD01_1926152329 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1599.000 Y=-418.000 Z=828.000), Max=(X=-1599.000 Y=-418.000 Z=828.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:C8EFDACF4207A6B8C17E0795AB7049A4 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_D843AE06D09D55EE01_2145601601 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4570.000 Y=-1644.000 Z=-800.000), Max=(X=3630.000 Y=10156.000 Z=1200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/Map1
+----------------------------------------------------------------------------------------------------------------
+Map1 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Map1 Persistent Level
+ |- Always loaded Actor Count: 16 
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.AmbientSound_UAID_D843AE06D09DF6F801_1925917343
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/0/VV/N5JSZQ7QKGNM2P4H1YL7AZ
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.Brush_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.Companion_BP_C_UAID_D843AE06D09D18F101_1961433889
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/C/2G/C7WKSLHK6RLEJNTKUZJ07A
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.DirectionalLight_UAID_D843AE06D09D7DFD01_1917407328
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/0/CO/FMIMG10F0N4W7W42HXKL4G
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.Map1_C_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.NavMeshBoundsVolume_UAID_D843AE06D09D55EE01_2145601601
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/4/VG/47IB9RH0LS7Q6NPHK8QM7D
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.RecastNavMesh_UAID_D843AE06D09D55EE01-Default
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/B/Z3/USURKDQKATRVGD6OU9AIE5
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.SkyLight_UAID_D843AE06D09D7DFD01_1926152329
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/3/CH/MCMFY2LLJ5HX2LM5LE18MB
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/0/5I/B2ICJ8BYYLERLPFLZFH0FT
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.ThirdPersonCharacter_C_UAID_D843AE06D09D17F101_2025650710
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/E/C6/WTGP0WV6QJH0XH42R0ZPC3
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/8/OT/JMENV4N15BVEJ99GR1C50C
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/ThirdPerson/Maps/Map1
+ |- Actor Path: /Game/ThirdPerson/Maps/Map1.Map1:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/ThirdPerson/Maps/Map1/A/CA/HM9ZV5TDKNB9O1PZOG0A8N
+
+----------------------------------------------------------------------------------------------------------------
+Map1 - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
